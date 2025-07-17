@@ -30,7 +30,7 @@ public class Elevador{
     public String entrar(){
         if(quantidadePessoas < capacidade){
             quantidadePessoas++;
-            return "Quantia de pessoas que entraram"+quantidadePessoas;
+            return "Quantia de pessoas que entraram:"+quantidadePessoas;
         }else{
             return "Elevador cheio";
         }   
