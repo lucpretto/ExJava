@@ -38,7 +38,7 @@ public class Elevador{
     public String sair(){
         if(quantidadePessoas > 0){
             quantidadePessoas--;
-            return "Quantia de pessoas que sobrou"+quantidadePessoas;
+            return "Quantia de pessoas que sobrou:"+quantidadePessoas;
         }else{
             return "O elevador está vazio";
         }
