@@ -32,7 +32,7 @@ public class Elevador{
             quantidadePessoas++;
             return "Quantia de pessoas que entraram"+quantidadePessoas;
         }else{
-            return "Elevador cheio"
+            return "Elevador cheio";
         }   
     }
     public String sair(){
@@ -56,7 +56,7 @@ public class Elevador{
             andarAtual--;
             return "O elevador está no andar:"+totalAndares;
         }else{
-            return "Já esta no térreo"
+            return "Já esta no térreo";
         }
     }
 }
