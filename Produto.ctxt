@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Produto
+comment1.params=precoP
+comment1.target=void\ setPreco(double)
+comment2.params=
+comment2.target=double\ getPreco()
+comment3.params=nomeP
+comment3.target=void\ setNome(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getNome()
+comment5.params=quantidadeP
+comment5.target=void\ setQuantidade(int)
+comment6.params=
+comment6.target=int\ getQuantidade()
+comment7.params=
+comment7.target=double\ calcularValorTotal()
+numComments=8

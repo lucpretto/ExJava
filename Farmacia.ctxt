@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Farmacia
+comment1.params=medicamentoP
+comment1.target=void\ setMedicamento(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMedicamento()
+comment3.params=marcaP
+comment3.target=void\ setMarca(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getMarca()
+comment5.params=tipoP
+comment5.target=void\ setTipo(int)
+comment6.params=
+comment6.target=int\ getTipo()
+comment7.params=
+comment7.target=java.lang.String\ exibirInformacoes()
+comment8.params=
+comment8.target=int\ exibirTipoMedicamento()
+numComments=9
