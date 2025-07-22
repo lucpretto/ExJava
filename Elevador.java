@@ -46,7 +46,7 @@ public class Elevador{
     public String subir(){
         if(andarAtual < totalAndares){
             andarAtual++;
-            return "O elevador está no andar:"+totalAndares;
+            return "O elevador está no andar:"+andarAtual;
         }else{
             return "Já esta no último andar";
         }
@@ -54,7 +54,7 @@ public class Elevador{
     public String descer(){
         if(andarAtual > 0){
             andarAtual--;
-            return "O elevador está no andar:"+totalAndares;
+            return "O elevador está no andar:"+andarAtual;
         }else{
             return "Já esta no térreo";
         }
